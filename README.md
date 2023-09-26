@@ -2,9 +2,9 @@
 <h3 align="center">A passionate web developer from India. Interested in working on backend, API's, and any web development projects.</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 🔭 I’m currently working on **WebOffice Full Stack Project**
+- 🔭 I’m currently working on **Chat Application - Full Stack Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate with **other developers on web development**
 
