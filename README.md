@@ -1,4 +1,5 @@
 <h1 align="center">Hey Dev's 👋, I'm Sai kiran</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-1712&label=Profile%20views&color=0e75b6&style=flat" alt="sai-1712" /> </p>
 <h3 align="center">A passionate web developer from India. Interested in working on backend, API's, and any web development projects.</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
